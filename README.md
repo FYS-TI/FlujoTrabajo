@@ -12,3 +12,7 @@ o colaboradores podran hacer un fork a sus cuentas personales
 3. Click en oranizacion
 4. Click en nueva organizacion
 5. Elegin plan y llenar datos
+
+## CREACIO DE FORK
+
+Para crear un fork debes iniciar sesion en gitHub y luego ingresar a la landing page del proyecto del que quieras hacer un fork
