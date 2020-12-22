@@ -16,3 +16,14 @@ o colaboradores podran hacer un fork a sus cuentas personales
 ## CREACIO DE FORK
 
 Para crear un fork debes iniciar sesion en gitHub y luego ingresar a la landing page del proyecto del que quieras hacer un fork
+
+## COMO TRABAJAR CON 2 RAMAS REMOTAS
+
+Listar remotos
+'git remote -v'
+
+Agregar remoto
+'git remote add FlujoTrabajo https://github.com/FYS-TI/FlujoTrabajo.git'
+
+Eliminar remotos
+'git remote remove FlujoTrabajo'
